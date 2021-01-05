@@ -4,7 +4,7 @@ username = 'connolr3'
 
 # from https://github.com/user/settings/tokens
 # authentication to GitHub when using the GitHub API
-token = '4522a920d8697c0bf680ebe7fe50ccbd96f2df05'
+token = '52bba60840490d19e2fd14daeba8b7f3374debcc'
 
 # create a re-usable session object with the user creds in-built
 gh_session = requests.Session()
